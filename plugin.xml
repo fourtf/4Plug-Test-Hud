@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Plugin>
-	<Meta>
-		<Version> 1.01 </Version>
-	</Meta>
+	<Info>
+		<Version> 1.1 </Version>
+		<Update Type="Xml"> https://github.com/fourtf/4Plug-Test-Hud/raw/master/plugin.xml </Update>
+	</Info>
 </Plugin>
